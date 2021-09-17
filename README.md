@@ -4,5 +4,5 @@ This code takes a facial image and finds the most notable parts, then segments e
 
 Example:
 
-![alt text]()
+![alt text](https://github.com/Jaquetti/Facial-parts-extractor/blob/main/img1.png)
 
