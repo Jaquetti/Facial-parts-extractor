@@ -7,4 +7,5 @@ Example:
 ![alt text](https://github.com/Jaquetti/Facial-parts-extractor/blob/main/img1.png)
 
 Result:
+
 ![alt_text](https://github.com/Jaquetti/Facial-parts-extractor/blob/main/img2.png)
